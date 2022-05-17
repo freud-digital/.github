@@ -14,3 +14,9 @@ Konkret werden in diesem Repo Daten aus
 verarbeitet. 
 
 ### [frd-working-data](https://github.com/freud-digital/frd-working-data)
+
+In diesem Repo werden die in [frd-data](https://github.com/freud-digital/frd-data) automatisch generierten Daten manuell weiterbearbeitet. 
+
+### [frd-static]((https://github.com/freud-digital/frd-static)
+
+In diesem Repo werden Daten aus [frd-data](https://github.com/freud-digital/frd-data) sowie [frd-static]((https://github.com/freud-digital/frd-static) zusammengeführt, nachprozessiert und in (X)HTML Dokumente transformiert, welche dann via GitHub Pages die Präsentationswebsite der Freud-Daten dient.

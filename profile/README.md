@@ -1,5 +1,3 @@
-# Freud-Digital
-
 ## Repo-Übersicht
 
 ### [frd-data](https://github.com/freud-digital/frd-data)
@@ -19,4 +17,13 @@ In diesem Repo werden die in [frd-data](https://github.com/freud-digital/frd-dat
 
 ### [frd-static](https://github.com/freud-digital/frd-static)
 
-In diesem Repo werden Daten aus [frd-data](https://github.com/freud-digital/frd-data) sowie [frd-static]((https://github.com/freud-digital/frd-static) zusammengeführt, nachprozessiert und in (X)HTML Dokumente transformiert, welche dann via GitHub Pages die Präsentationswebsite der Freud-Daten dient.
+In diesem Repo werden Daten aus [frd-data](https://github.com/freud-digital/frd-data) sowie [frd-static](https://github.com/freud-digital/frd-static) zusammengeführt, nachprozessiert und in (X)HTML Dokumente transformiert, welche dann via GitHub Pages die Präsentationswebsite der Freud-Daten dient.
+
+### [collate-me](https://github.com/freud-digital/collate-me)
+
+In diesem Repo können (Teile) von XML/TEI Dateien automatisiert kollationiert werden. Diese Repo dient als Arbeitsbehelf für [frd-working-data](https://github.com/freud-digital/frd-working-data).
+
+
+### [freud_api_crawler](https://github.com/freud-digital/freud_api_crawler)
+
+Dieses Repo enthält den Code eines gleichnamigen Python-Packages welches in [frd-data](https://github.com/freud-digital/frd-data) verwendet wird, um Daten aus https://www.freud-edition.net/ bzw. der entsprechenden JSONAPI-Schnittstelle zu exportieren und in TEI/XML Dokumente zu konvertieren.

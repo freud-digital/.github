@@ -27,3 +27,7 @@ In diesem Repo können (Teile) von XML/TEI Dateien automatisiert kollationiert w
 ### [freud_api_crawler](https://github.com/freud-digital/freud_api_crawler)
 
 Dieses Repo enthält den Code eines gleichnamigen Python-Packages welches in [frd-data](https://github.com/freud-digital/frd-data) verwendet wird, um Daten aus https://www.freud-edition.net/ bzw. der entsprechenden JSONAPI-Schnittstelle zu exportieren und in TEI/XML Dokumente zu konvertieren.
+
+### [frd-reporting](https://github.com/freud-digital/frd-reporting)
+
+In diesem Repo werden zweimal täglich aktuelle Daten über den Fortschritt der (Transkrptions)Arbeiten aus https://www.freud-edition.net/ abgefragt in Form eines [Dashboards](https://freud-digital.github.io/frd-reporting/) dargestellt.

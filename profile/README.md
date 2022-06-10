@@ -31,3 +31,11 @@ Dieses Repo enthält den Code eines gleichnamigen Python-Packages welches in [fr
 ### [frd-reporting](https://github.com/freud-digital/frd-reporting)
 
 In diesem Repo werden zweimal täglich aktuelle Daten über den Fortschritt der (Transkrptions)Arbeiten aus https://www.freud-edition.net/ abgefragt in Form eines [Dashboards](https://freud-digital.github.io/frd-reporting/) dargestellt.
+
+### [frd-latex](https://github.com/freud-digital/frd-latex)
+
+repo to process Freud XML/TEIs into PDFs via LaTex
+
+### [frd-archiv](https://github.com/freud-digital/frd-archiv)
+
+place to collect proccessed/final data
